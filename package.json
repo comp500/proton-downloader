@@ -1,0 +1,14 @@
+{
+  "name": "proton-downloader",
+  "version": "1.0.0",
+  "description": "A youtube downloader with a GUI made using Electron.",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ./app"
+  },
+  "author": "comp500",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.8"
+  }
+}
