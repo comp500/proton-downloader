@@ -17,6 +17,9 @@
   },
   "build": {
     "app-bundle-id": "prtdl",
-    "app-category-type": "public.app-category.utilities"
+    "app-category-type": "public.app-category.utilities",
+    "win": {
+		"noMsi": false
+    }
   }
 }
