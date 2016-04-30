@@ -5,5 +5,8 @@
   "description": "A youtube downloader with a GUI made using Electron.",
   "homepage": "https://github.com/comp500/proton-downloader",
   "author": "comp500",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "electron-squirrel-startup": "^0.1.4"
+  }
 }
