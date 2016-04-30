@@ -1,5 +1,5 @@
 {
-  "name": "proton-downloader",
+  "name": "protondownloader",
   "version": "1.0.0",
   "description": "A youtube downloader with a GUI made using Electron.",
   "main": "index.js",
@@ -17,9 +17,6 @@
   },
   "build": {
     "app-bundle-id": "prtdl",
-    "app-category-type": "public.app-category.utilities",
-    "win": {
-		"noMsi": false
-    }
+    "app-category-type": "public.app-category.utilities"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "proton-downloader",
+  "name": "protondownloader",
   "version": "1.0.0",
   "main": "main.js",
   "description": "A youtube downloader with a GUI made using Electron.",
